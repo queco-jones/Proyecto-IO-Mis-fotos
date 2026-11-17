@@ -1,0 +1,4 @@
+﻿ingenieria.jpg 15-11-2026 estudios 10
+futbol.jpg 22-06-1986 deportes 100
+eetac.jpg 01-01-2000 universidad 200
+familia.jpg 10-08-2025 personal 50

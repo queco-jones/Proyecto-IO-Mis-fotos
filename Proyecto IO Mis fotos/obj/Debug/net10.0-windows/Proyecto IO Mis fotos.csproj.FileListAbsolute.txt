@@ -1,0 +1,31 @@
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.exe
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\fotos.txt
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.deps.json
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.runtimeconfig.json
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.dll
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.pdb
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.dll
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\refint\Proyecto IO Mis fotos.dll
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.pdb
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\ref\Proyecto IO Mis fotos.dll
+C:\Users\gonza\source\repos\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto.5B17F8FB.Up2Date
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.exe
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\fotos.txt
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.deps.json
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.runtimeconfig.json
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.dll
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\bin\Debug\net10.0-windows\Proyecto IO Mis fotos.pdb
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.AssemblyInfoInputs.cache
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.AssemblyInfo.cs
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.csproj.CoreCompileInputs.cache
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.dll
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\refint\Proyecto IO Mis fotos.dll
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.pdb
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\Proyecto IO Mis fotos.genruntimeconfig.cache
+C:\Users\guill\Downloads\Proyecto IO Mis fotos\Proyecto IO Mis fotos\obj\Debug\net10.0-windows\ref\Proyecto IO Mis fotos.dll
